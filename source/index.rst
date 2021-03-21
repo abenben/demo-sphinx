@@ -1,9 +1,4 @@
-.. test1 documentation master file, created by
-   sphinx-quickstart on Sun Mar 21 14:17:24 2021.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to test_document's documentation!
+SphinX デモ
 =========================================
 
 .. toctree::
@@ -18,6 +13,8 @@ Welcome to test_document's documentation!
    :maxdepth: 2
    :caption: test3だけ
    :numbered:
+
+   /test/test3
 
 Indices and tables
 ==================
